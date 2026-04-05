@@ -1,6 +1,6 @@
 ## Hi, I’m Shobhit Verma 👋
 
-### Backend & DevOps Engineer | Go, Docker | 450+ DSA Problems Solved
+### Backend & DevOps Engineer | Go, Docker | 700+ DSA Problems Solved
 
 - 🚀 Currently building: Distributed Job Queue
 - 🛠️ Stack: Go (Golang), Docker, PostgreSQL, Redis, Kafka, Microservices
